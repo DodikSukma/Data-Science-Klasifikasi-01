@@ -1,0 +1,183 @@
+Name,Gender,age(mounth),TB(cm),WB(cm),CongenitalDisease,allergy,Status
+Maria Anders,1,27,40,8,0,0,good
+Ana Trujillo,0,20,40,7,0,0,good
+Antonio Moreno,1,20,37,9,0,0,good
+Thomas Hardy,0,23,32,7,0,0,good
+Christina Berglund,1,20,41,9,0,0,good
+Hanna Moos,0,27,35,8,0,0,good
+Frédérique Citeaux,1,20,42,8,0,0,good
+Martín Sommer,0,26,45,7,0,0,good
+Laurence Lebihans,1,25,39,9,0,0,good
+Elizabeth Lincoln,0,23,39,9,0,0,good
+Victoria Ashworth,1,21,40,9,0,0,good
+Patricio Simpson,0,25,45,8,0,0,good
+Francisco Chang,1,25,36,8,0,0,good
+Yang Wang,0,20,40,8,0,0,good
+Pedro Afonso,1,27,37,7,0,0,good
+Elizabeth Brown,0,25,31,8,0,0,good
+Sven Ottlieb,1,19,41,9,0,0,good
+Janine Labrune,0,26,43,8,0,0,good
+Ann Devon,1,26,33,9,0,0,good
+Roland Mendel,0,25,42,8,1,1,not enough
+Aria Cruz,1,22,39,9,1,1,bad
+Diego Roel,0,24,34,8,1,1,good
+Martine Rancé,1,27,41,7,1,1,good
+Maria Larsson,0,20,40,9,1,1,good
+Peter Franken,1,25,31,7,0,0,good
+Carine Schmitt,0,19,37,7,1,1,good
+Paolo Accorti,1,19,43,8,1,1,not enough
+Lino Rodriguez,0,24,44,7,0,0,bad
+Eduardo Saavedra,1,21,30,8,1,1,good
+José Pedro Freyre,0,26,43,7,1,1,good
+André Fonseca,1,23,41,7,0,0,good
+Howard Snyder,0,19,40,8,1,1,good
+Manuel Pereira,1,19,34,9,1,1,not enough
+Mario Pontes,0,21,34,8,0,0,bad
+Carlos Hernández,1,22,39,8,1,1,bad
+Yoshi Latimer,0,20,44,9,0,0,good
+Patricia McKenna,1,22,37,7,0,0,good
+Helen Bennett,0,20,43,8,0,0,good
+Philip Cramer,1,25,44,7,0,0,good
+Daniel Tonini,0,26,44,8,0,0,not enough
+Annette Roulet,1,27,44,8,0,0,bad
+Yoshi Tannamuri,0,24,45,7,0,0,good
+John Steel,1,25,30,8,0,0,good
+Renate Messner,0,24,38,9,0,0,good
+Jaime Yorres,1,22,35,9,0,0,not enough
+Carlos González,0,24,37,8,0,0,bad
+Felipe Izquierdo,1,22,33,7,0,0,good
+Fran Wilson,0,25,44,9,1,1,good
+Giovanni Rovelli,1,20,40,7,1,1,good
+Catherine Dewey,0,23,31,8,0,0,good
+Jean Fresnière,1,22,37,9,1,1,not enough
+Alexander Feuer,0,21,33,8,1,1,bad
+Simon Crowther,1,19,43,8,0,0,good
+Yvonne Moncada,0,21,45,7,1,1,good
+Rene Phillips,1,21,34,9,0,0,good
+Henriette Pfalzheim,0,27,40,8,0,0,good
+Marie Bertrand,1,23,38,8,0,0,not enough
+Guillermo Fernández,0,22,42,9,0,0,good
+Georg Pipps,1,19,30,7,0,0,good
+Isabel de Castro,0,20,38,8,0,0,good
+Bernardo Batista,1,24,33,8,0,0,good
+Lúcia Carvalho,0,24,31,7,0,0,not enough
+Horst Kloss,1,24,44,9,0,0,good
+Sergio Gutiérrez,0,22,39,7,0,0,good
+Paula Wilson,1,22,35,8,0,0,good
+Maurizio Moroni,0,24,39,7,0,0,good
+Janete Limeira,1,23,30,8,0,0,not enough
+Michael Holz,0,21,41,7,0,0,good
+Alejandra Camino,1,26,32,9,0,0,good
+Jonas Bergulfsen,0,19,39,9,0,0,good
+Jose Pavarotti,1,19,40,8,0,0,good
+Hari Kumar,0,27,31,7,0,0,not enough
+Jytte Petersen,1,26,39,7,0,0,good
+Dominique Perrier,0,22,30,8,0,0,good
+Art Braunschweiger,1,19,40,9,0,0,good
+Pascale Cartrain,0,23,31,8,0,0,good
+Liz Nixon,1,27,33,7,0,0,not enough
+Liu Wong,0,21,39,8,0,0,good
+Karin Josephs,1,25,37,8,0,0,good
+Miguel Angel Paolino,0,22,39,8,0,0,good
+Anabela Domingues,1,22,40,7,0,0,good
+Helvetius Nagy,0,21,35,7,0,0,not enough
+Palle Ibsen,1,22,31,7,0,0,good
+Mary Saveley,0,19,36,9,0,0,good
+Paul Henriot,1,21,40,9,0,0,good
+Rita Müller,0,23,38,7,0,0,good
+Pirkko Koskitalo,1,20,42,8,0,0,not enough
+Paula Parente,0,22,42,8,0,0,good
+Karl Jablonski,1,26,36,7,0,0,good
+Matti Karttunen,0,22,31,9,0,0,good
+Zbyszek,1,23,45,8,0,0,good
+Maria Anders,0,25,45,7,0,0,not enough
+Ana Trujillo,1,19,33,8,0,0,good
+Antonio Moreno,0,24,42,7,0,0,good
+Thomas Hardy,1,27,45,7,0,0,good
+Christina Berglund,0,22,32,9,0,0,good
+Hanna Moos,1,23,32,8,0,0,not enough
+Frédérique Citeaux,0,24,39,7,0,0,good
+Martín Sommer,1,20,33,7,0,0,good
+Laurence Lebihans,0,26,37,9,0,0,good
+Elizabeth Lincoln,1,23,36,9,0,0,good
+Victoria Ashworth,0,27,37,9,0,0,not enough
+Patricio Simpson,1,24,42,9,0,0,good
+Francisco Chang,0,27,42,8,0,0,good
+Yang Wang,1,26,41,7,0,0,good
+Pedro Afonso,0,26,40,7,0,0,good
+Elizabeth Brown,1,27,33,8,0,0,not enough
+Sven Ottlieb,0,25,39,8,0,0,good
+Janine Labrune,1,21,40,7,0,0,good
+Ann Devon,0,24,34,8,0,0,good
+Roland Mendel,1,25,33,8,0,0,good
+Aria Cruz,0,23,38,8,0,0,not enough
+Diego Roel,1,22,42,9,0,0,good
+Martine Rancé,0,21,39,8,0,0,good
+Maria Larsson,1,27,30,8,0,0,good
+Peter Franken,0,20,41,9,0,0,good
+Carine Schmitt,1,25,35,9,0,0,not enough
+Paolo Accorti,0,22,43,7,0,0,good
+Lino Rodriguez,1,22,40,9,0,0,good
+Eduardo Saavedra,0,25,38,7,0,0,good
+José Pedro Freyre,1,25,42,7,0,0,good
+André Fonseca,0,25,43,8,0,0,good
+Howard Snyder,1,21,38,7,0,0,good
+Manuel Pereira,0,24,35,7,0,0,good
+Mario Pontes,1,27,44,8,0,0,good
+Carlos Hernández,0,20,34,9,0,0,good
+Yoshi Latimer,1,19,34,7,0,0,good
+Patricia McKenna,0,24,41,7,0,0,good
+Helen Bennett,1,19,33,8,0,0,good
+Philip Cramer,0,21,39,8,0,0,good
+Daniel Tonini,1,20,32,8,0,0,good
+Annette Roulet,0,24,40,8,0,0,good
+Yoshi Tannamuri,1,19,36,8,0,0,good
+John Steel,0,20,39,8,0,0,good
+Renate Messner,1,23,42,8,0,0,good
+Jaime Yorres,0,23,41,8,0,0,good
+Carlos González,1,25,35,8,0,0,good
+Felipe Izquierdo,0,24,31,9,0,0,good
+Fran Wilson,1,25,41,7,0,0,good
+Giovanni Rovelli,0,24,43,8,0,0,good
+Catherine Dewey,1,19,35,9,0,0,good
+Jean Fresnière,0,27,43,7,0,0,good
+Alexander Feuer,1,20,38,7,0,0,good
+Simon Crowther,0,19,38,8,0,0,good
+Yvonne Moncada,1,24,38,9,0,0,good
+Rene Phillips,0,21,40,7,0,0,good
+Henriette Pfalzheim,1,19,39,7,0,0,not enough
+Marie Bertrand,0,26,40,9,0,0,good
+Guillermo Fernández,1,27,40,7,0,0,good
+Georg Pipps,0,22,41,8,0,0,good
+Isabel de Castro,1,23,34,8,0,0,good
+Bernardo Batista,0,19,35,9,0,0,not enough
+Lúcia Carvalho,1,21,42,7,0,0,good
+Horst Kloss,0,21,36,9,0,0,good
+Sergio Gutiérrez,1,27,41,8,0,0,good
+Paula Wilson,0,23,35,7,0,0,good
+Maurizio Moroni,1,25,45,7,0,0,not enough
+Janete Limeira,0,25,31,7,0,0,good
+Michael Holz,1,26,30,9,0,0,good
+Alejandra Camino,0,22,41,8,0,0,not enough
+Jonas Bergulfsen,1,22,36,9,0,0,good
+Jose Pavarotti,0,24,41,9,0,0,good
+Hari Kumar,1,20,35,7,0,0,not enough
+Jytte Petersen,0,26,45,7,0,0,good
+Dominique Perrier,1,24,30,9,0,0,good
+Art Braunschweiger,0,26,31,7,0,0,not enough
+Pascale Cartrain,1,24,36,7,0,0,good
+Liz Nixon,0,20,30,8,0,0,good
+Liu Wong,1,26,38,9,1,1,not enough
+Karin Josephs,0,25,38,8,1,1,good
+Miguel Angel Paolino,1,19,37,8,0,0,good
+Anabela Domingues,0,26,34,8,1,1,not enough
+Helvetius Nagy,1,24,39,8,1,1,good
+Palle Ibsen,0,23,34,8,0,0,good
+Mary Saveley,1,25,41,7,1,1,not enough
+Paul Henriot,0,20,33,9,0,0,good
+Rita Müller,1,20,36,9,0,0,good
+Pirkko Koskitalo,0,21,30,9,0,0,not enough
+Paula Parente,1,25,40,7,0,0,good
+Karl Jablonski,0,19,45,7,0,0,good
+Matti Karttunen,1,27,41,8,0,0,not enough
+Zbyszek,0,19,42,9,0,0,good
